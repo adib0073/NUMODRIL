@@ -21,3 +21,5 @@ Nuclear morphometric features are potent determining factors for clinical diagno
 Keywords: lamins, ovarian cancer, tissue microarray, confocal imaging, nuclear morphometry, deep learning, deep hybrid learning
 
 
+Visit: https://aditya-bhattacharya.net/ for more.
+Connect with me in LinkedIn at - https://www.linkedin.com/in/aditya-bhattacharya-b59155b6/
