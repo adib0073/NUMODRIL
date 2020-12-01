@@ -23,4 +23,4 @@ Keywords: lamins, ovarian cancer, tissue microarray, confocal imaging, nuclear m
 
 Visit: https://aditya-bhattacharya.net/ for more.
 
-Connect with me in LinkedIn at - https://www.linkedin.com/in/aditya-bhattacharya-b59155b6/
+Connect with me on LinkedIn at - https://www.linkedin.com/in/aditya-bhattacharya-b59155b6/
