@@ -1,6 +1,9 @@
 # NUMODRIL
 NUMODRIL - Nuclear Morphology  Optimized Deep Hybrid Learning
 
+Research work link - https://www.biorxiv.org/content/10.1101/2020.11.23.393660v1
+
+
 Nuclear Morphology Optimized Deep Hybrid Learning (NUMODRIL): Development of a novel architecture for accurate diagnosis and prognosis of Ovarian Cancer 
 Duhita Sengupta1#, , 4#, SkNishan Ali2#, Aditya Bhattacharya2#, Joy Mustafi2#, Asima Mukhopadhyay3,4¶ & Kaushik Sengupta1*
 1.	Biophysics and Structural Genomics Division, Saha Institute of Nuclear Physics, Kolkata;HomiBhaba National Institute, Mumbai, India
